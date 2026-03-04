@@ -64,9 +64,9 @@ export const siteContent = {
   header: {
     navLinks: [
         { id: "resources", name: "Resources", href: "#" },
-        { id: "1", name: "ran out of ideas", href: "#" },
-        { id: "2", name: "ran out of ideas", href: "#" },
-        { id: "3", name: "ran out of ideas", href: "#" }
+        { id: "1", name: "ran", href: "#" },
+        { id: "2", name: "out of", href: "#" },
+        { id: "3", name: "ideas", href: "#" }
     ]
   },
 
